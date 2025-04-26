@@ -5,7 +5,7 @@ pip freeze > requirements.txt
 
 - Instalar ambiente venv (precisa ser python 3.10):
 ```bash 
-py -3.10 -m venv venv-tf
+py -3.10 -m venv venv
 ```
 
 - Ativar ambiente venv:
